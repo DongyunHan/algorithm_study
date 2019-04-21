@@ -1,6 +1,8 @@
 # p_14503
 # OOP 개념에 맞게 class로 나누어서 풀어봤더니
 # 코드가 훨씬 길어져 버림
+# 핵심 코드가 Robot_Clener.do_clean() 이라서 그런 듯.
+# 왠만큼 복잡한 문제가 아니라면 def를 통해서 푸는게
 
 class Room_State:
     WALL = 1
